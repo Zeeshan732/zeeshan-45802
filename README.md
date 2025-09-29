@@ -12,7 +12,7 @@ zeeshan-45802/
 ├── frontend/   # Angular 17 Blog Frontend
 │   └── blog-frontend
 │
-├── backend/    # .Node Blog Backend API
+├── backend/    # .Net Blog Backend API
 │   └── BlogApi
 │
 └── README.md
